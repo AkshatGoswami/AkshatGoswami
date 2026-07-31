@@ -18,7 +18,6 @@ Building scalable backend systems, REST APIs, and full-stack web applications.
 
 ## 👨‍💻 About Me
 
-* 💼 Former Project Engineer at **Wipro**
 * 💻 Backend Developer passionate about scalable applications
 * 🌱 Currently learning **Microservices, Kubernetes, AWS & System Design**
 * 🔭 Building production-ready backend projects
@@ -68,6 +67,28 @@ Building scalable backend systems, REST APIs, and full-stack web applications.
 ---
 
 # 🏆 Featured Projects
+
+
+## 📂 Project Management System ⭐ 
+
+A production-ready RESTful backend API for collaborative project management with secure authentication, role-based authorization, task management, and team collaboration.
+
+✨ Features
+
+* JWT Authentication & Refresh Tokens
+* Email Verification & Password Reset
+* Role-Based Access Control (Admin, Project Admin, Member)
+* Project & Team Management
+* Task & Subtask Management
+* File Uploads using Multer
+* Project Notes
+* Input Validation
+* RESTful API Design
+* Health Check Endpoint
+
+** 🛠 Tech Stack ** 
+
+Node.js • Express.js • MongoDB • Mongoose • JWT • Express Validator • Multer • Nodemailer
 
 ## 📄 AI Document Extraction API
 
